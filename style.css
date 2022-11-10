@@ -1,0 +1,98 @@
+.navbar{
+overflow: hidden;
+}
+
+.navbar a{
+float: right;
+text-align: center;
+text-transform: uppercase;
+color: white;
+transition-duration: 900ms;
+cursor: pointer;
+padding: 10px 20px;
+text-decoration: none;
+font-family: sans-serif;
+font-size: 20px;
+font-weight: 800;
+}
+
+body{
+background-color: lightslategray;
+}
+
+.navbar a:hover{
+color: yellow;
+}
+
+.navbar a.active{
+color: yellow;
+}
+
+.register{
+text-align: center;
+font-family: sans-serif;
+}
+
+.username{
+display: block;
+text-align: center;
+margin: 0 auto;
+font-size: 30px;
+font-family: sans-serif;
+border: 2px solid green;
+border-radius: 25px;
+}
+
+.password{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 30px;
+    font-family: sans-serif;
+    border: 2px solid green;
+    border-radius: 25px;
+}
+
+.button{
+display: block;
+padding: 14px 24px;
+color: green;
+background-color: white;
+border: 2px solid green;
+width: 100px;
+font-family: sans-serif;
+transition-duration: 900ms;
+text-align: center;
+margin: 0 auto;
+border-radius: 25px;
+cursor: pointer;
+}
+
+.button:hover{
+color: white;
+background-color: green;
+border: 2px solid salmon
+}
+
+.heading{
+text-align: center;
+font-family: sans-serif;
+font-size: 40px;
+}
+
+.mm{
+text-align: center;
+color: wheat;
+font-family: sans-serif;
+font-size: 20px ;
+}
+
+.vid{
+text-align: center;
+margin: 0 auto;
+}
+
+.m2{
+text-align: center;
+margin: 0 auto;
+}
